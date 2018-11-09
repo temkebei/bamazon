@@ -1,0 +1,53 @@
+
+element.style {
+}
+user agent stylesheet
+.line-content {
+    padding: 0px 5px !important;
+}
+user agent stylesheet
+td {
+    vertical-align: baseline;
+    padding: 0px !important;
+}
+user agent stylesheet
+td, th {
+    display: table-cell;
+    vertical-align: inherit;
+}
+user agent stylesheet
+table {
+    width: 100%;
+    word-break: break-word;
+    font-size: initial;
+    font-family: monospace;
+    tab-size: 4;
+    white-space: pre-wrap !important;
+    border-spacing: 0px;
+    margin: 0px;
+}
+user agent stylesheet
+table {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal;
+}
+user agent stylesheet
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
+}
+
+display {
+    background-image: url(/public/assets/images/models.jpg);
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+}
+

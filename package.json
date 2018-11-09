@@ -1,0 +1,29 @@
+{
+  "name": "post-officefashion_DB-joins",
+  "version": "1.0.0",
+  "description": "In this activity, you'll be creating an Amazon-like storefront with the MySQL and Sequelize skills you learned this unit. The web app will take in orders from customers and deplete stock from the store's inventory. As a challenge task, you can program your site to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.16.4",
+    "mysql2": "^1.6.1",
+    "sequelize": "^4.41.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/temkebei/OfficeFashion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/temkebei/OfficeFashion/issues"
+  },
+  "homepage": "https://github.com/temkebei/OfficeFashion#readme"
+}
